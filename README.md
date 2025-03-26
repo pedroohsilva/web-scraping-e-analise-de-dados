@@ -1,14 +1,11 @@
+# WebScraping com Python e Análise de Dados
+
 ### Introdução:
-Neste projeto, realizarei a extração automatizada de dados por meio de técnicas básicas de web scraping.
-Após a coleta, os dados serão tratados e analisados utilizando as bibliotecas Pandas e NumPy, integradas a APIs específicas,
-visando garantir a precisão e eficiência no processamento das informações.
+Imagine uma empresa internacional buscando oportunidades estratégicas para expandir seus negócios em países reconhecidos por sua inovação tecnológica. Como Analista de Dados, fui recrutado para criar um script capaz de extrair informações detalhadas dos 10 países que mais investiram em Pesquisa e Desenvolvimento (P&D) em 2019.
+
+Neste projeto, realizei a extração automatizada desses dados utilizando técnicas básicas de web scraping. Após coletar as informações, tratei e analisei os dados com o auxílio das bibliotecas Pandas e NumPy, integradas a APIs específicas, garantindo precisão, eficiência e clareza nos resultados obtidos.
 
 #### 📌 Fonte dos dados: https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_por_gastos_com_pesquisa_e_desenvolvimento
-
-### Business Case:
-Uma empresa internacional está buscando oportunidades para expandir seus negócios em países que se destacam em inovação tecnológica.
-Você foi recrutado como Analista de Dados e recebeu a tarefa de desenvolver um script capaz de extrair informações dos 10 países que mais investiram
-em Pesquisa e Desenvolvimento (P&D) no ano de 2019.
 
 ### Resultados:
 
